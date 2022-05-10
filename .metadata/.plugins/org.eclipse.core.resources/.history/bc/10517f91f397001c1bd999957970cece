@@ -1,0 +1,24 @@
+import java.rmi.AccessException;
+
+public class Pointer {
+public static void main(String[] args) {
+	System.out.println("Start");
+
+	try
+	{
+		System.out.println(100/0);
+	
+}
+	catch(ArithmeticException e)
+	{
+		System.out.println("There is Exception");
+	}
+	finally
+	{
+		System.out.println("Finally-block");
+	}
+	System.out.println("End");
+}
+}
+
+

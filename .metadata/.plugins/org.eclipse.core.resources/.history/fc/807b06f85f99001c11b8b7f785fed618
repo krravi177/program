@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class LargestNumberex69 {
+public static void main(String[] args) {
+	
+	Scanner sc=new Scanner(System.in);
+	System.out.println("Enter the integer number:");
+	int a=sc.nextInt();
+	int b=sc.nextInt();
+	int c=sc.nextInt();
+	int largest1=c>(a>b?a:b)?c:((a>b)?a:b);
+	System.out.println("Largest is");
+}
+}

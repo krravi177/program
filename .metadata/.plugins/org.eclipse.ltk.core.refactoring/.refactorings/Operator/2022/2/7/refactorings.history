@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Primeno_or_not&apos; to &apos;Primeno_or_not54&apos;&#x0D;&#x0A;- Original project: &apos;Operator&apos;&#x0D;&#x0A;- Original element: &apos;Primeno_or_not&apos;&#x0D;&#x0A;- Renamed element: &apos;Primeno_or_not54&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Primeno_or_not&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Primeno_or_not.java[Primeno_or_not" matchStrategy="1" name="Primeno_or_not54" qualified="false" references="true" similarDeclarations="false" stamp="1644515522184" textual="false" version="1.0"/>
+</session>

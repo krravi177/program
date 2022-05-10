@@ -1,0 +1,11 @@
+package SHISHIRASIR;
+
+public class Student1 {
+public static void main(String[] args) {
+	System.out.println("Enter the Student name:");
+	int id;String name;
+	void Student(int id1,String name1) {
+		
+	}
+}
+}
